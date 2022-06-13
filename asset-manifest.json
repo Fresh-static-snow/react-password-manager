@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-password-manager/static/css/main.877f1fce.css",
+    "main.js": "/react-password-manager/static/js/main.f0983cb4.js",
+    "index.html": "/react-password-manager/index.html",
+    "main.877f1fce.css.map": "/react-password-manager/static/css/main.877f1fce.css.map",
+    "main.f0983cb4.js.map": "/react-password-manager/static/js/main.f0983cb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877f1fce.css",
+    "static/js/main.f0983cb4.js"
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-password-manager/static/css/main.0eb08bfa.css",
-    "main.js": "/react-password-manager/static/js/main.3fd88ac0.js",
+    "main.css": "/react-password-manager/static/css/main.fc25bda7.css",
+    "main.js": "/react-password-manager/static/js/main.576503f6.js",
     "index.html": "/react-password-manager/index.html",
-    "main.0eb08bfa.css.map": "/react-password-manager/static/css/main.0eb08bfa.css.map",
-    "main.3fd88ac0.js.map": "/react-password-manager/static/js/main.3fd88ac0.js.map"
+    "main.fc25bda7.css.map": "/react-password-manager/static/css/main.fc25bda7.css.map",
+    "main.576503f6.js.map": "/react-password-manager/static/js/main.576503f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eb08bfa.css",
-    "static/js/main.3fd88ac0.js"
+    "static/css/main.fc25bda7.css",
+    "static/js/main.576503f6.js"
   ]
 }

@@ -1,5 +1,5 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-import { DashBoard, Login, SignUp } from "./page-components";
+import { DashBoard, Login, SignUp } from "./pages";
 
 export const useRoutes = (isAuthenticated: boolean) => {
   if (isAuthenticated) {
